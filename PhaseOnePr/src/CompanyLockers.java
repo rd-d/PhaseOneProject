@@ -7,7 +7,7 @@ public class CompanyLockers {
 		
 		System.out.println("WELCOME to LOCKedMe.com");
 		
-		System.out.println("Devloper name: ROHAN D");
+		System.out.println("Devloper name: ROHAN Dange");
 		
 		System.out.println("Features to accept the user input are:");
 
@@ -69,7 +69,7 @@ public class CompanyLockers {
                 if(bool){
                    System.out.println("Directory created successfully");
                 }else{
-                   System.out.println("Sorry couldn’t create specified directory");
+                   System.out.println("Sorry couldnâ€™t create specified directory");
                 }
                 break;
                 
